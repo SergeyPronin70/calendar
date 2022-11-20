@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SergeyPronin70/calendar/static/css/main.9ba2d959.css",
+    "main.js": "/SergeyPronin70/calendar/static/js/main.1650d6a0.js",
+    "index.html": "/SergeyPronin70/calendar/index.html",
+    "main.9ba2d959.css.map": "/SergeyPronin70/calendar/static/css/main.9ba2d959.css.map",
+    "main.1650d6a0.js.map": "/SergeyPronin70/calendar/static/js/main.1650d6a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba2d959.css",
+    "static/js/main.1650d6a0.js"
+  ]
+}
